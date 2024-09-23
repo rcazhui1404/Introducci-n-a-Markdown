@@ -26,3 +26,4 @@ Origen de la [foto](https://www.reddit.com/r/DylanteroYT/comments/ni9o2l/corte_e
 
 ## Enlace al otro README
 
+Enlace al otro [markdown](/README.MD)
