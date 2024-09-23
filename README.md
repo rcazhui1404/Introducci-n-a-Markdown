@@ -11,7 +11,7 @@
 #!/bin/bash
 echo "Hola mundo"
 ```
-<!- Esto es un bloque de codigo bash -->
+<!-- Esto es un bloque de codigo bash -->
 
 ## Imagen y origen de la imagen
 
